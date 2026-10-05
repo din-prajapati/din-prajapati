@@ -138,26 +138,6 @@ Plus: AI Engineering · Generative AI & LLMs · Prompt Engineering · Microsoft 
 
 ---
 
-### 🗺️ The journey
-
-<details>
-<summary><b>18 years in one scroll — click to expand</b></summary>
-<br/>
-
-| When | Role | Where it mattered |
-|---|---|---|
-| **2025 – Now** | Principal Engineer & Architect (Independent) | Advising product companies on cloud-native strategy and AI adoption; building ORION and InfographicAI; shipping to Cal.com open source |
-| **2017 – 2025** | Principal Technology Consultant · **Nexum Software (UK)** | 8 years as technical authority for an energy SaaS platform (Shell Energy, OVO Energy); zero-downtime microservices migration; zero breaches |
-| **2016 – 2017** | Technology Lead · **Infosys** → Travelers Insurance (US) | Led delivery of a 2M+ user insurance platform; cut delivery cycle time 25% |
-| **2009 – 2016** | System Analyst · **Cybage** → Upland Software (US) | Document management for 10+ enterprise clients; 100K+ docs/month; 30% faster APIs |
-| **2007 – 2009** | Software Engineer → Senior Software Engineer | Where it started: ASP.NET, C#, SQL Server |
-
-🎓 M.S. & B.S. Computer Applications — Gujarat University
-
-</details>
-
----
-
 ### 💭 What I believe about building software
 
 - **Boring architecture wins.** Pick technology your next five hires already know.
@@ -171,8 +151,12 @@ Plus: AI Engineering · Generative AI & LLMs · Prompt Engineering · Microsoft 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=din-prajapati&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=din-prajapati&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+<table>
+<tr>
+<td><img height="170" src="https://github-readme-stats.vercel.app/api?username=din-prajapati&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/></td>
+<td><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=din-prajapati&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide=html,css&cache_seconds=86400" alt="Top languages"/></td>
+</tr>
+</table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=din-prajapati&theme=tokyonight&hide_border=true" alt="Streak"/>
 
