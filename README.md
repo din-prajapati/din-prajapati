@@ -171,10 +171,10 @@ Plus: AI Engineering · Generative AI & LLMs · Prompt Engineering · Microsoft 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=din-prajapati&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=din-prajapati&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=din-prajapati&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 </div>
 
@@ -190,7 +190,7 @@ I reply to every message within 24 hours.
 [![Book a conversation](https://img.shields.io/badge/📩%20Start%20a%20Conversation-din.prajapati%40gmail.com-0F2027?style=for-the-badge)](mailto:din.prajapati@gmail.com?subject=Let's%20talk%20-%20from%20your%20GitHub)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshprajapati09/)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2C5364&style=flat-square&label=Profile+views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=din-prajapati&color=2C5364&style=flat-square&label=Profile+views" alt="Profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%"/>
 
